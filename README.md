@@ -11,3 +11,6 @@ Materials needed to construct this project are as follows:
 * 1X Arduino Uno or equivalent
 * 1X Full sized breadboard
 * A series of male to male breadboard jumper wires
+
+## Breadboard Schematic
+![schematic](https://i.imgur.com/QJvGdN1.png)
